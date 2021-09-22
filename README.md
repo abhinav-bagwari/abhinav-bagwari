@@ -12,11 +12,11 @@
 <a href="https://www.instagram.com/abhinavbagwari/"><img src="https://github.com/abhinav-bagwari/abhinav-bagwari/blob/main/instagram.png" height=25></a> 
 </p>
 <h2 align="center">Visit ----><a href = "https://abhinav-bagwari.github.io/port-folio/">My Portfolio</a>
-<h3>
+<h2>
 - 🔭 I’m currently working on Deep Learning
 - 🌱 I’m currently learning Natural Language Processing
 - ⚡ Fun fact: AI is not going to destroy Humanity:
- </h3>
+ </h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Web-brown">
