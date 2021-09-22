@@ -41,7 +41,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhinav-bagwari&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="320" />
-  <img src="https://github.com/abhinav-bagwari/abhinav-bagwari/blob/main/name.gif" height="150", width="320" /> 
+  <img src="https://github.com/abhinav-bagwari/abhinav-bagwari/blob/main/name.gif" height="130", width="320" /> 
 </p>
 
 
