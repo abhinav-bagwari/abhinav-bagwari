@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/abhinavbagwari/"><img src="https://github.com/abhinav-bagwari/abhinav-bagwari/blob/main/linkedin.png" height=25></a> 
 <a href="https://www.instagram.com/abhinavbagwari/"><img src="https://github.com/abhinav-bagwari/abhinav-bagwari/blob/main/instagram.png" height=25></a> 
 </p>
-<h2 align="center">Visit ----><a href = "https://abhinav-bagwari.github.io/port-folio/">My Portfolio</a>
+<h2 align="center">Visit ----><a href = "https://portfolio-d934b.web.app/">My Portfolio</a>
 
 - 🔭 I’m currently working on Deep Learning
 - 🌱 I’m currently learning Natural Language Processing
