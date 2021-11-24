@@ -51,9 +51,9 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=abhinav-bagwari&bg_color=0d0c0d&color=e137d6&line=5daddf&point=99eb1e&area=false&hide_border=true">
-</p>
+</p> -->
 
 
 
