@@ -4,7 +4,7 @@
 </p>
 <h2 align="center">Hello there! I'm Abhinav Bagwari <img src ="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px" </h2>
 
-<p align="center">Self motivated Computer Science and  Engineering student with teamwork abilities and great communication skills. I am looking for an opportunity in the field of Data Science to expand my learnings, knowledge, and skills. 
+<p align="center">I am looking for an opportunity in the field of Software Development and Data Science to expand my learnings, knowledge, and skills. 
 </p>
 
 <p align="center"> <a href="https://www.facebook.com/abhinav.bagwari/"><img src="https://github.com/abhinav-bagwari/abhinav-bagwari/blob/main/facebook.png" height=25></a> 
